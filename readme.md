@@ -1,6 +1,6 @@
 # gebeto9
 
-![gebeto9](imgur.com image replace me!)
+![gebeto9](https://github.com/user-attachments/assets/bbdb1394-39ca-4d56-884f-1afab9752138)
 
 *A short description of the keyboard/project*
 
