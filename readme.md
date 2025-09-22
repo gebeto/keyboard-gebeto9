@@ -2,11 +2,11 @@
 
 ![gebeto9](https://github.com/user-attachments/assets/bbdb1394-39ca-4d56-884f-1afab9752138)
 
-*A short description of the keyboard/project*
+*Simple basic numpad 3x3*
 
 * Keyboard Maintainer: [gebeto](https://github.com/gebeto)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *Handwire, rp2040*
+* Hardware Availability: *Self made*
 
 Make example for this keyboard (after setting up your build environment):
 
