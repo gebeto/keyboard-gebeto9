@@ -1,6 +1,9 @@
 # Keyboards
 
-[gebeto9](./gebeto9/)
+* **[gebeto9](./gebeto9/)** 3x3 numpad
+
+
+## Details
 
 * Keyboard Maintainer: [gebeto](https://github.com/gebeto)
 * Hardware Availability: *Self made*
